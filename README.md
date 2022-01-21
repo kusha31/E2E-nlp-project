@@ -27,4 +27,4 @@
 * Contains the streamlit app implementation
 * To run the app from terminal or anaconda prompt:
 
-	==streamlit run app.py==
+### ==streamlit run app.py==
