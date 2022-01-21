@@ -26,4 +26,5 @@
 
 * Contains the streamlit app implementation
 * To run the app from terminal or anaconda prompt:
+
 *Tabspace*==streamlit run app.py==
